@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">&quot;Nekoman's Block Puzzle&quot;</string>
+    <string name="admob_id">a1505116d67b7a9</string>
+    <string name="setting_show_fps">Show FPS</string>
+    <string name="setting_play_se">Play SE</string>
+    <string name="setting_texture_quality">Texture Quality</string>
+    <string name="play_data_save">Result saved!</string>
+    <string name="setting_drawing_method">Drawing Method</string>
+    <string name="setting_draw_usually">&quot;Usually (Processing tends to become slow)&quot;</string>
+    <string name="setting_draw_one_frame_skip">&quot;1 Frame Skipping (FPS is stabilized most)&quot;</string>
+    <string name="setting_draw_any_frames_skip">&quot;A few Frames Skipping (Processing may become slow)&quot;</string>
+    <string name="howtoplay_target">The target of this game is erasing all the blocks on the stage.</string>
+    <string name="howtoplay_player_move">If a direction button is pushed, Nekoman will move in the direction.</string>
+    <string name="howtoplay_camera_height">&quot;If you swipe vertically on the right half of a screen, Camera's height will be changed.&quot;</string>
+    <string name="howtoplay_camera_rot">&quot;If you swipe horizontally on the right half of a screen, Camera's viewpoint will be changed.&quot;</string>
+    <string name="howtoplay_block_dis">If 2 or more Green Block is connected vertically or horizontally, it will disappear.</string>
+    <string name="howtoplay_block_dis2">Red Block: 3 or more, Blue Block: 4 or more, Yellow Block: 5 or more.</string>
+    <string name="howtoplay_level">This game is fairly difficult contrary to the loveliness of Nekoman.</string>
+    <string name="houtoplay_end">Enjoy! yoship(poor at English).</string>
+</resources>

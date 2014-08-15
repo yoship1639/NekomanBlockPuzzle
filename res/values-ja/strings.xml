@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ねこまんとブロックパズル</string>
+    <string name="setting_show_fps">FPSをひょうじする</string>
+    <string name="setting_play_se">SEをならす</string>
+    <string name="setting_texture_quality">テクスチャのクオリティ</string>
+    <string name="play_data_save">セーブしました!</string>
+    <string name="setting_drawing_method">びょうがのしかた</string>
+    <string name="setting_draw_usually">&quot;ふつう (こうせいのうなスマホむけ)&quot;</string>
+    <string name="setting_draw_one_frame_skip">&quot;おそいときに1フレームとばす (ふつうのスマホむけ)&quot;</string>
+    <string name="setting_draw_any_frames_skip">&quot;おそいときに数フレームとばす (どちらもだめなとき)&quot;</string>
+    <string name="howtoplay_target">このゲームのクリア目標は、ステージ上にあるすべてのブロックを消すことです。</string>
+    <string name="howtoplay_player_move">方向ボタンをおすと、ねこまんがうごきます。</string>
+    <string name="howtoplay_camera_height">画面の右半分をタテにスワイプすると、カメラの高さが変わります。</string>
+    <string name="howtoplay_camera_rot">画面の右半分をヨコにスワイプすると、カメラの視点が変わります。</string>
+    <string name="howtoplay_block_dis">緑ブロックは、2こ以上タテかヨコにつなげると消えます。</string>
+    <string name="howtoplay_block_dis2">赤ブロック： 3こ以上, 青ブロック： 4こ以上, 黄ブロック： 5こ以上。</string>
+    <string name="howtoplay_level">このゲームはねこまんのかわいさとは裏腹に、けっこうむずかしいです。</string>
+    <string name="houtoplay_end">以上! yoship.</string>
+</resources>
